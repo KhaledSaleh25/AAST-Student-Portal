@@ -1,0 +1,25 @@
+Name: Mohammed Khaled
+
+	Course: Calculus I
+	Credit hours for course Calculus I: 3
+	Grade for course Calculus I: A+
+	Course: Introduction to computing
+	Credit hours for course Introduction to computing: 3
+	Grade for course Introduction to computing: A+
+	Course: English for Specific Purposes I (ESP I)
+	Credit hours for course English for Specific Purposes I (ESP I): 2
+	Grade for course English for Specific Purposes I (ESP I): A+
+	Course: Fundamentals of Business
+	Credit hours for course Fundamentals of Business: 2
+	Grade for course Fundamentals of Business: A+
+	Course: Creativity and innovation
+	Credit hours for course Creativity and innovation: 2
+	Grade for course Creativity and innovation: A+
+	Course: Introduction to Information Systems
+	Credit hours for course Introduction to Information Systems: 3
+	Grade for course Introduction to Information Systems: A+
+	Course: Physics
+	Credit hours for course Physics: 3
+	Grade for course Physics: A+
+
+			GPA of the student: 4.00
