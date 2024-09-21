@@ -1,0 +1,39 @@
+Name: Hamza Mamdouh
+Registration number: š
+	Course: Introduction to Networks
+	Credit hours for course Introduction to Networks: 3
+	Grade for course Introduction to Networks: A+
+
+
+	Course: Intro. to Computer Architecture
+	Credit hours for course Intro. to Computer Architecture: 3
+	Grade for course Intro. to Computer Architecture: B+
+
+
+	Course: Professional Training in Entrepreneurship
+	Credit hours for course Professional Training in Entrepreneurship: 2
+	Grade for course Professional Training in Entrepreneurship: B
+
+
+	Course: Data Structures and Algorithms
+	Credit hours for course Data Structures and Algorithms: 3
+	Grade for course Data Structures and Algorithms: B-
+
+
+	Course: Advanced Programming Applications
+	Credit hours for course Advanced Programming Applications: 3
+	Grade for course Advanced Programming Applications: B
+
+
+	Course: Database Systems
+	Credit hours for course Database Systems: 3
+	Grade for course Database Systems: A-
+
+
+	Course: Introduction to Software Engineering
+	Credit hours for course Introduction to Software Engineering: 3
+	Grade for course Introduction to Software Engineering: A
+
+
+
+			GPA of the student: 4.00
