@@ -1,0 +1,117 @@
+Khaled Mohammed
+
+Science
+70.000000
+28843
+Introduction to computing
+CCS1101
+3
+Precalculas
+BA003
+0
+Introduction to information systems
+CIS1000
+3
+Physics
+EBA1110
+3
+Fundamentals of business
+UNR1302
+2
+Creativity and innovationn
+UNR1102
+2
+you will enroll in Esp 1Hassan Amr
+
+Math
+75.000000
+28843
+introduction to computing
+CCS1101
+3
+Calculas I
+EBA1203
+3
+Introduction to information systems
+CIS1000
+3
+Physics
+EBA1110
+3
+Fundamentals of business
+UNR1302
+2
+Creativity and innovationn
+UNR1102
+2
+you will enroll in Esp 1Name: Demetrious Khaled
+
+Department: Math
+High school grade: 60.000000 %
+Payment: 30877\nnCourse: introduction to computing
+Code course: CCS1101
+Credit hour: 3
+
+
+Course: Calculas I
+Code course: EBA1203
+Credit hour: 3
+
+
+Course: Introduction to information systems
+Code course: CIS1000
+Credit hour: 3
+
+
+Course: Physics
+Code course: EBA1110
+Credit hour: 3
+
+
+Course: Fundamentals of business
+Code course: UNR1302
+Credit hour: 2
+
+
+Course: Creativity and innovationn
+Code course: UNR1102
+Credit hour: 2
+
+
+you will enroll in Esp 1
+
+Name: Mohammed Khaled Amine
+
+Department: Science
+High school grade: 70.000000 %
+Payment: 28843\nnCourse: Introduction to computing
+Code course: CCS1101
+Credit hour: 3
+
+
+Course: Precalculas
+Code course: BA003
+Credit hour: 0
+
+
+Course: Introduction to information systems
+Code course: CIS1000
+Credit hour: 3
+
+
+Course: Physics
+Code course: EBA1110
+Credit hour: 3
+
+
+Course: Fundamentals of business
+Code course: UNR1302
+Credit hour: 2
+
+
+Course: Creativity and innovationn
+Code course: UNR1102
+Credit hour: 2
+
+
+you will enroll in Esp 0
