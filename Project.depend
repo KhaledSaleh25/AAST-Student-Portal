@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1685353633 source:f:\codeblocks\new folder\codeforces\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685353633 source:f:\codeblocks\new folder\c_project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685350033 source:f:\codeblocks\new folder\project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
